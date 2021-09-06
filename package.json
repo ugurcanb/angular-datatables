@@ -51,7 +51,7 @@
     "concat-cli": "~4.0.0",
     "concurrently": "^5.3.0",
     "core-js": "^3.6.5",
-    "datatables.net": "^1.10.22",
+    "datatables.net": "1.10.25",
     "jasmine-core": "~3.6.0",
     "jquery": "^3.4.1",
     "karma": "~5.2.3",
